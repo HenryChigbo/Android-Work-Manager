@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WorkManager</string>
+    <string name="set_alert">Set Alert</string>
+    <string name="notification">Enter amount in minutes from now to trigger notification</string>
+</resources>
